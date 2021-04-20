@@ -10,7 +10,7 @@ async function bootstrap() {
   const options = new DocumentBuilder()
   .setTitle('Test API')
   .setVersion('000')
-  .setDescription('One by One')
+  .setDescription('One by Two')
   .addTag('notes')
   .build();
 
