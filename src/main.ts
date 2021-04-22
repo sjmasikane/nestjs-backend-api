@@ -9,7 +9,7 @@ async function bootstrap() {
   app.enableCors();
   const options = new DocumentBuilder()
   .setTitle('Test API')
-  .setVersion('0')
+  .setVersion('01')
   .setDescription('One by Two')
   .addTag('notes')
   .build();
